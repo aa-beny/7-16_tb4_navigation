@@ -1,0 +1,15 @@
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/ament_index/resource_index/package_run_dependencies/turtlebot4_robot
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/ament_index/resource_index/parent_prefix_path/turtlebot4_robot
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/environment/ament_prefix_path.sh
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/environment/ament_prefix_path.dsv
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/environment/path.sh
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/environment/path.dsv
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/local_setup.bash
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/local_setup.sh
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/local_setup.zsh
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/local_setup.dsv
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/package.dsv
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/ament_index/resource_index/packages/turtlebot4_robot
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/cmake/turtlebot4_robotConfig.cmake
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/cmake/turtlebot4_robotConfig-version.cmake
+/home/recoomputer/benytb4_ws/install/turtlebot4_robot/share/turtlebot4_robot/package.xml

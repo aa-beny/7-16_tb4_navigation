@@ -1,0 +1,53 @@
+[0.818s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_navigation -- -j8 -l8
+[0.944s] Built target ament_cmake_python_symlink_turtlebot4_navigation
+[1.585s] running egg_info
+[1.587s] writing turtlebot4_navigation.egg-info/PKG-INFO
+[1.588s] writing dependency_links to turtlebot4_navigation.egg-info/dependency_links.txt
+[1.589s] writing top-level names to turtlebot4_navigation.egg-info/top_level.txt
+[1.595s] reading manifest file 'turtlebot4_navigation.egg-info/SOURCES.txt'
+[1.597s] writing manifest file 'turtlebot4_navigation.egg-info/SOURCES.txt'
+[1.672s] Built target ament_cmake_python_build_turtlebot4_navigation_egg
+[2.114s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_navigation -- -j8 -l8
+[2.117s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_navigation
+[2.134s] -- Install configuration: ""
+[2.134s] -- Execute custom install script
+[2.138s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/localization.yaml
+[2.139s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/mapper_params_localization.yaml
+[2.140s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2.yaml
+[2.142s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2_copy.yaml
+[2.142s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/slam.yaml
+[2.143s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/launch/localization.launch.py
+[2.144s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/launch/nav2.launch.py
+[2.145s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/launch/slam.launch.py
+[2.145s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/depot.pgm
+[2.146s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/depot.yaml
+[2.146s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/maze.pgm
+[2.146s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/maze.yaml
+[2.147s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/warehouse.pgm
+[2.147s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/warehouse.yaml
+[2.147s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/pythonpath.sh
+[2.148s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/pythonpath.dsv
+[2.148s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/PKG-INFO
+[2.150s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/SOURCES.txt
+[2.151s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/dependency_links.txt
+[2.151s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/top_level.txt
+[2.153s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation/__init__.py
+[2.154s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation/turtlebot4_navigator.py
+[2.154s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigator.py
+[2.155s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/ament_index/resource_index/package_run_dependencies/turtlebot4_navigation
+[2.155s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/ament_index/resource_index/parent_prefix_path/turtlebot4_navigation
+[2.155s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/ament_prefix_path.sh
+[2.155s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/ament_prefix_path.dsv
+[2.156s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/path.sh
+[2.157s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/path.dsv
+[2.157s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.bash
+[2.158s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.sh
+[2.158s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.zsh
+[2.158s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.dsv
+[2.159s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/package.dsv
+[2.172s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/ament_index/resource_index/packages/turtlebot4_navigation
+[2.172s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/cmake/turtlebot4_navigationConfig.cmake
+[2.173s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/cmake/turtlebot4_navigationConfig-version.cmake
+[2.173s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/package.xml
+[2.277s] Listing '/home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation'...
+[2.385s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_navigation

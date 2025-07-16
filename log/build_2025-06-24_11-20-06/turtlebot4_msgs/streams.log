@@ -1,0 +1,154 @@
+[0.091s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_msgs -- -j8 -l8
+[0.877s] [  2%] Built target turtlebot4_msgs__cpp
+[0.878s] [ 12%] Built target turtlebot4_msgs__rosidl_generator_c
+[0.879s] [ 12%] Built target ament_cmake_python_symlink_turtlebot4_msgs
+[0.880s] [ 23%] Built target turtlebot4_msgs__rosidl_typesupport_fastrtps_cpp
+[0.881s] [ 34%] Built target turtlebot4_msgs__rosidl_typesupport_introspection_cpp
+[0.881s] [ 44%] Built target turtlebot4_msgs__rosidl_typesupport_cpp
+[0.881s] [ 57%] Built target turtlebot4_msgs__rosidl_typesupport_fastrtps_c
+[0.882s] [ 65%] Built target turtlebot4_msgs__rosidl_typesupport_introspection_c
+[0.882s] [ 76%] Built target turtlebot4_msgs__rosidl_typesupport_c
+[0.882s] [ 76%] Built target turtlebot4_msgs
+[0.883s] [ 78%] Built target turtlebot4_msgs__py
+[0.883s] [ 87%] Built target turtlebot4_msgs__rosidl_generator_py
+[0.883s] [ 91%] Built target turtlebot4_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.884s] [ 95%] Built target turtlebot4_msgs__rosidl_typesupport_introspection_c__pyext
+[0.884s] [100%] Built target turtlebot4_msgs__rosidl_typesupport_c__pyext
+[0.961s] running egg_info
+[0.963s] writing turtlebot4_msgs.egg-info/PKG-INFO
+[0.965s] writing dependency_links to turtlebot4_msgs.egg-info/dependency_links.txt
+[0.966s] writing top-level names to turtlebot4_msgs.egg-info/top_level.txt
+[0.974s] reading manifest file 'turtlebot4_msgs.egg-info/SOURCES.txt'
+[0.977s] writing manifest file 'turtlebot4_msgs.egg-info/SOURCES.txt'
+[1.085s] [100%] Built target ament_cmake_python_build_turtlebot4_msgs_egg
+[1.140s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_msgs -- -j8 -l8
+[1.146s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_msgs
+[1.171s] -- Install configuration: ""
+[1.173s] -- Execute custom install script
+[1.173s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/ament_index/resource_index/rosidl_interfaces/turtlebot4_msgs
+[1.173s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__functions.h
+[1.173s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__struct.h
+[1.173s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__type_support.h
+[1.173s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__functions.h
+[1.174s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__struct.h
+[1.174s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__type_support.h
+[1.174s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__functions.h
+[1.174s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__struct.h
+[1.175s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__type_support.h
+[1.175s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.175s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_button.h
+[1.175s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_display.h
+[1.175s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_led.h
+[1.175s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/library_path.sh
+[1.176s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/library_path.dsv
+[1.176s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_fastrtps_c.h
+[1.176s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_fastrtps_c.h
+[1.177s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_fastrtps_c.h
+[1.177s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.177s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_introspection_c.h
+[1.178s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_introspection_c.h
+[1.178s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_introspection_c.h
+[1.179s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.180s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__builder.hpp
+[1.180s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__struct.hpp
+[1.181s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__traits.hpp
+[1.182s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__type_support.hpp
+[1.182s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__builder.hpp
+[1.182s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__struct.hpp
+[1.182s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__traits.hpp
+[1.182s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__type_support.hpp
+[1.183s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__builder.hpp
+[1.184s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__struct.hpp
+[1.184s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__traits.hpp
+[1.185s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__type_support.hpp
+[1.186s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.186s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_button.hpp
+[1.187s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_display.hpp
+[1.187s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/user_led.hpp
+[1.187s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_fastrtps_cpp.hpp
+[1.188s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_fastrtps_cpp.hpp
+[1.188s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_fastrtps_cpp.hpp
+[1.190s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.191s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_button__rosidl_typesupport_introspection_cpp.hpp
+[1.191s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_display__rosidl_typesupport_introspection_cpp.hpp
+[1.191s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/include/turtlebot4_msgs/turtlebot4_msgs/msg/detail/user_led__rosidl_typesupport_introspection_cpp.hpp
+[1.192s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/pythonpath.sh
+[1.192s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/pythonpath.dsv
+[1.192s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs-1.0.5-py3.10.egg-info/PKG-INFO
+[1.193s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs-1.0.5-py3.10.egg-info/SOURCES.txt
+[1.193s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs-1.0.5-py3.10.egg-info/dependency_links.txt
+[1.193s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs-1.0.5-py3.10.egg-info/top_level.txt
+[1.194s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/__init__.py
+[1.194s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_c.c
+[1.195s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.196s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/_turtlebot4_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.196s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/libturtlebot4_msgs__rosidl_generator_py.so
+[1.196s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg/__init__.py
+[1.197s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg/_user_button.py
+[1.197s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg/_user_button_s.c
+[1.197s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg/_user_display.py
+[1.198s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg/_user_display_s.c
+[1.198s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg/_user_led.py
+[1.198s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg/_user_led_s.c
+[1.198s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[1.198s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[1.198s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[1.198s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[1.199s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[1.199s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/turtlebot4_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[1.199s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserLed.idl
+[1.199s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserButton.idl
+[1.199s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserDisplay.idl
+[1.199s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserLed.msg
+[1.200s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserButton.msg
+[1.200s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/msg/UserDisplay.msg
+[1.200s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/ament_index/resource_index/package_run_dependencies/turtlebot4_msgs
+[1.200s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/ament_index/resource_index/parent_prefix_path/turtlebot4_msgs
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/ament_prefix_path.sh
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/ament_prefix_path.dsv
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/path.sh
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/environment/path.dsv
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.bash
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.sh
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.zsh
+[1.201s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/local_setup.dsv
+[1.202s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/package.dsv
+[1.216s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/ament_index/resource_index/packages/turtlebot4_msgs
+[1.217s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/rosidl_cmake-extras.cmake
+[1.217s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.217s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.217s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.217s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.218s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.218s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.218s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgsConfig.cmake
+[1.218s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgsConfig-version.cmake
+[1.219s] -- Up-to-date symlink: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/package.xml
+[1.219s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_generator_c.so
+[1.220s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_fastrtps_c.so
+[1.221s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_introspection_c.so
+[1.222s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_c.so
+[1.222s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.223s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_introspection_cpp.so
+[1.223s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_typesupport_cpp.so
+[1.317s] Listing '/home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs'...
+[1.317s] Listing '/home/recoomputer/benytb4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages/turtlebot4_msgs/msg'...
+[1.333s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/lib/libturtlebot4_msgs__rosidl_generator_py.so
+[1.337s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_cExport.cmake
+[1.337s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.338s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.338s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.338s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.339s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.339s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cExport.cmake
+[1.339s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.340s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_cppExport.cmake
+[1.340s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.340s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.340s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.340s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.340s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cppExport.cmake
+[1.340s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/turtlebot4_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.343s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_pyExport.cmake
+[1.343s] -- Up-to-date: /home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake/export_turtlebot4_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.365s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_msgs

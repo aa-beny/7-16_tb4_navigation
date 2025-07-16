@@ -1,0 +1,1 @@
+/home/recoomputer/benytb4_ws/build/map_publisher/ament_cmake_environment_hooks/local_setup.bash

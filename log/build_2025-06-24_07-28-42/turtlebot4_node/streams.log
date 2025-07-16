@@ -1,0 +1,89 @@
+[0.038s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_node': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/turtlebot4/turtlebot4_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/turtlebot4_node
+[0.163s] -- The C compiler identification is GNU 11.4.0
+[0.274s] -- The CXX compiler identification is GNU 11.4.0
+[0.289s] -- Detecting C compiler ABI info
+[0.439s] -- Detecting C compiler ABI info - done
+[0.461s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.462s] -- Detecting C compile features
+[0.464s] -- Detecting C compile features - done
+[0.471s] -- Detecting CXX compiler ABI info
+[0.632s] -- Detecting CXX compiler ABI info - done
+[0.646s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.648s] -- Detecting CXX compile features
+[0.649s] -- Detecting CXX compile features - done
+[0.659s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.088s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.260s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.340s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[1.443s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.456s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.477s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.508s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.548s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.659s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.667s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.721s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.746s] -- Looking for pthread.h
+[1.921s] -- Looking for pthread.h - found
+[1.922s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.086s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.088s] -- Found Threads: TRUE  
+[2.210s] -- Found rclcpp_action: 16.0.12 (/opt/ros/humble/share/rclcpp_action/cmake)
+[2.311s] -- Found std_srvs: 4.8.0 (/opt/ros/humble/share/std_srvs/cmake)
+[2.339s] -- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.413s] -- Found irobot_create_msgs: 2.1.0 (/opt/ros/humble/share/irobot_create_msgs/cmake)
+[2.465s] -- Found turtlebot4_msgs: 1.0.5 (/home/recoomputer/benytb4_ws/install/turtlebot4_msgs/share/turtlebot4_msgs/cmake)
+[2.507s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.757s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.757s] -- Configured cppcheck include dirs: /home/recoomputer/benytb4_ws/src/turtlebot4/turtlebot4_node/include
+[2.757s] -- Configured cppcheck exclude dirs and/or files: 
+[2.761s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.762s] -- Configured cpplint exclude dirs and/or files: 
+[2.764s] -- Added test 'lint_cmake' to check CMake code style
+[2.768s] -- Added test 'uncrustify' to check C / C++ code style
+[2.769s] -- Configured uncrustify additional arguments: 
+[2.769s] -- Added test 'xmllint' to check XML markup files
+[2.775s] -- Configuring done
+[2.818s] -- Generating done
+[2.831s] -- Build files have been written to: /home/recoomputer/benytb4_ws/build/turtlebot4_node
+[2.859s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_node' returned '0': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/turtlebot4/turtlebot4_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/turtlebot4_node
+[2.863s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_node': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_node -- -j8 -l8
+[2.974s] [ 12%] [32mBuilding CXX object CMakeFiles/turtlebot4_node_lib.dir/src/turtlebot4.cpp.o[0m
+[2.977s] [ 25%] [32mBuilding CXX object CMakeFiles/turtlebot4_node_lib.dir/src/buttons.cpp.o[0m
+[2.977s] [ 37%] [32mBuilding CXX object CMakeFiles/turtlebot4_node_lib.dir/src/main.cpp.o[0m
+[2.979s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot4_node_lib.dir/src/display.cpp.o[0m
+[2.982s] [ 62%] [32mBuilding CXX object CMakeFiles/turtlebot4_node_lib.dir/src/leds.cpp.o[0m
+[62.943s] [ 75%] [32m[1mLinking CXX static library libturtlebot4_node_lib.a[0m
+[64.828s] [ 75%] Built target turtlebot4_node_lib
+[64.875s] [ 87%] [32mBuilding CXX object CMakeFiles/turtlebot4_node.dir/src/main.cpp.o[0m
+[77.911s] [100%] [32m[1mLinking CXX executable turtlebot4_node[0m
+[83.917s] [100%] Built target turtlebot4_node
+[83.943s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_node' returned '0': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_node -- -j8 -l8
+[83.947s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_node': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_node
+[83.964s] -- Install configuration: ""
+[83.965s] -- Execute custom install script
+[83.966s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/lib/turtlebot4_node/turtlebot4_node
+[83.984s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/include/turtlebot4_node/action.hpp
+[84.003s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/include/turtlebot4_node/buttons.hpp
+[84.020s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/include/turtlebot4_node/display.hpp
+[84.035s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/include/turtlebot4_node/leds.hpp
+[84.054s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/include/turtlebot4_node/service.hpp
+[84.071s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/include/turtlebot4_node/turtlebot4.hpp
+[84.088s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/include/turtlebot4_node/utils.hpp
+[84.110s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/ament_index/resource_index/package_run_dependencies/turtlebot4_node
+[84.130s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/ament_index/resource_index/parent_prefix_path/turtlebot4_node
+[84.148s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/environment/ament_prefix_path.sh
+[84.165s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/environment/ament_prefix_path.dsv
+[84.184s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/environment/path.sh
+[84.203s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/environment/path.dsv
+[84.225s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/local_setup.bash
+[84.245s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/local_setup.sh
+[84.262s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/local_setup.zsh
+[84.280s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/local_setup.dsv
+[84.299s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/package.dsv
+[84.319s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/ament_index/resource_index/packages/turtlebot4_node
+[84.338s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[84.360s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/cmake/turtlebot4_nodeConfig.cmake
+[84.377s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/cmake/turtlebot4_nodeConfig-version.cmake
+[84.399s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_node/share/turtlebot4_node/package.xml
+[84.426s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_node' returned '0': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_node

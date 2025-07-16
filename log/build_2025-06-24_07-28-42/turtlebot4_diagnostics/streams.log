@@ -1,0 +1,28 @@
+[2.264s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics': PYTHONPATH=/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/build --no-deps symlink_data
+[2.986s] running develop
+[3.778s] running egg_info
+[3.778s] creating turtlebot4_diagnostics.egg-info
+[3.780s] writing turtlebot4_diagnostics.egg-info/PKG-INFO
+[3.782s] writing dependency_links to turtlebot4_diagnostics.egg-info/dependency_links.txt
+[3.784s] writing entry points to turtlebot4_diagnostics.egg-info/entry_points.txt
+[3.784s] writing requirements to turtlebot4_diagnostics.egg-info/requires.txt
+[3.784s] writing top-level names to turtlebot4_diagnostics.egg-info/top_level.txt
+[3.785s] writing manifest file 'turtlebot4_diagnostics.egg-info/SOURCES.txt'
+[3.792s] reading manifest file 'turtlebot4_diagnostics.egg-info/SOURCES.txt'
+[3.794s] writing manifest file 'turtlebot4_diagnostics.egg-info/SOURCES.txt'
+[3.895s] running build_ext
+[3.895s] Creating /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages/turtlebot4-diagnostics.egg-link (link to .)
+[3.897s] Installing diagnostics_updater script to /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/turtlebot4_diagnostics
+[3.898s] 
+[3.898s] Installed /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics
+[3.898s] running symlink_data
+[3.898s] creating /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/ament_index
+[3.899s] creating /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/ament_index/resource_index
+[3.899s] creating /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/ament_index/resource_index/packages
+[3.899s] symbolically linking /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/resource/turtlebot4_diagnostics -> /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/ament_index/resource_index/packages
+[3.899s] symbolically linking /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/package.xml -> /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/turtlebot4_diagnostics
+[3.900s] creating /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/turtlebot4_diagnostics/launch
+[3.900s] symbolically linking /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/launch/diagnostics.launch.py -> /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/turtlebot4_diagnostics/launch
+[3.900s] creating /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/turtlebot4_diagnostics/config
+[3.900s] symbolically linking /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/config/diagnostics.yaml -> /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/share/turtlebot4_diagnostics/config
+[4.047s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics' returned '0': PYTHONPATH=/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/build --no-deps symlink_data

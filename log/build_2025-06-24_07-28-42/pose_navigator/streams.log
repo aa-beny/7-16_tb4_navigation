@@ -1,0 +1,32 @@
+[2.104s] Invoking command in '/home/recoomputer/benytb4_ws/build/pose_navigator': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher PYTHONPATH=/home/recoomputer/benytb4_ws/build/pose_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/recoomputer/benytb4_ws/install/pose_navigator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/recoomputer/benytb4_ws/build/pose_navigator/build --no-deps symlink_data
+[3.331s] running develop
+[4.277s] running egg_info
+[4.277s] creating pose_navigator.egg-info
+[4.279s] writing pose_navigator.egg-info/PKG-INFO
+[4.280s] writing dependency_links to pose_navigator.egg-info/dependency_links.txt
+[4.281s] writing entry points to pose_navigator.egg-info/entry_points.txt
+[4.282s] writing requirements to pose_navigator.egg-info/requires.txt
+[4.283s] writing top-level names to pose_navigator.egg-info/top_level.txt
+[4.285s] writing manifest file 'pose_navigator.egg-info/SOURCES.txt'
+[4.293s] reading manifest file 'pose_navigator.egg-info/SOURCES.txt'
+[4.297s] writing manifest file 'pose_navigator.egg-info/SOURCES.txt'
+[4.537s] running build_ext
+[4.549s] Creating /home/recoomputer/benytb4_ws/install/pose_navigator/lib/python3.10/site-packages/pose-navigator.egg-link (link to .)
+[4.552s] Installing color_navigator script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+[4.554s] Installing coretask script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+[4.555s] Installing forward_return_node script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+[4.556s] Installing pose_navigator script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+[4.557s] Installing pose_navigator_node script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+[4.559s] Installing test_color_sequence script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+[4.560s] Installing test_waypoints script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+[4.561s] 
+[4.564s] Installed /home/recoomputer/benytb4_ws/build/pose_navigator
+[4.564s] running symlink_data
+[4.566s] creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index
+[4.567s] creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index/resource_index
+[4.567s] creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index/resource_index/packages
+[4.576s] symbolically linking /home/recoomputer/benytb4_ws/build/pose_navigator/resource/pose_navigator -> /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index/resource_index/packages
+[4.577s] symbolically linking /home/recoomputer/benytb4_ws/build/pose_navigator/package.xml -> /home/recoomputer/benytb4_ws/install/pose_navigator/share/pose_navigator
+[4.577s] creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/pose_navigator/config
+[4.578s] symbolically linking /home/recoomputer/benytb4_ws/build/pose_navigator/pose_navigator/config/poses.json -> /home/recoomputer/benytb4_ws/install/pose_navigator/share/pose_navigator/config
+[4.879s] Invoked command in '/home/recoomputer/benytb4_ws/build/pose_navigator' returned '0': CMAKE_PREFIX_PATH=/home/recoomputer/benytb4_ws/install/turtlebot4_navigation:/home/recoomputer/benytb4_ws/install/turtlebot4_desktop:/home/recoomputer/benytb4_ws/install/turtlebot4_viz:/home/recoomputer/benytb4_ws/install/turtlebot4_robot:/home/recoomputer/benytb4_ws/install/turtlebot4_bringup:/home/recoomputer/benytb4_ws/install/turtlebot4_base:/home/recoomputer/benytb4_ws/install/turtlebot4_node:/home/recoomputer/benytb4_ws/install/turtlebot4_msgs:/home/recoomputer/benytb4_ws/install/turtlebot4_description:/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo:/home/recoomputer/benytb4_ws/install/map_publisher PYTHONPATH=/home/recoomputer/benytb4_ws/build/pose_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/recoomputer/benytb4_ws/install/pose_navigator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/recoomputer/benytb4_ws/build/pose_navigator/build --no-deps symlink_data

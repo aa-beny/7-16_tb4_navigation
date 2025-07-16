@@ -1,0 +1,1 @@
+/home/recoomputer/benytb4_ws/build/map_publisher/ament_cmake_core/map_publisherConfig-version.cmake

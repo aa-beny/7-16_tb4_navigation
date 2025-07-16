@@ -1,0 +1,9 @@
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/uninstall.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/turtlebot4_robot_uninstall.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/test.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/edit_cache.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/rebuild_cache.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/list_install_components.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/install.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/install/local.dir
+/home/recoomputer/benytb4_ws/build/turtlebot4_robot/CMakeFiles/install/strip.dir

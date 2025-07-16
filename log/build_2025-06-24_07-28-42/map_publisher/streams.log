@@ -1,0 +1,72 @@
+[0.746s] Invoking command in '/home/recoomputer/benytb4_ws/build/map_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/map_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/map_publisher
+[0.874s] -- The C compiler identification is GNU 11.4.0
+[1.003s] -- The CXX compiler identification is GNU 11.4.0
+[1.023s] -- Detecting C compiler ABI info
+[1.192s] -- Detecting C compiler ABI info - done
+[1.205s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.206s] -- Detecting C compile features
+[1.208s] -- Detecting C compile features - done
+[1.216s] -- Detecting CXX compiler ABI info
+[1.409s] -- Detecting CXX compiler ABI info - done
+[1.423s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.425s] -- Detecting CXX compile features
+[1.427s] -- Detecting CXX compile features - done
+[1.440s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.900s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.083s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.164s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[2.282s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.295s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.316s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.345s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.387s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.526s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.536s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[2.602s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[2.630s] -- Looking for pthread.h
+[2.832s] -- Looking for pthread.h - found
+[2.832s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.008s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.010s] -- Found Threads: TRUE  
+[3.164s] -- Found nav_msgs: 4.8.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[3.265s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.480s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.480s] -- Configured cppcheck include dirs: 
+[3.481s] -- Configured cppcheck exclude dirs and/or files: 
+[3.483s] -- Added test 'lint_cmake' to check CMake code style
+[3.485s] -- Added test 'uncrustify' to check C / C++ code style
+[3.485s] -- Configured uncrustify additional arguments: 
+[3.487s] -- Added test 'xmllint' to check XML markup files
+[3.491s] -- Configuring done
+[3.514s] -- Generating done
+[3.524s] -- Build files have been written to: /home/recoomputer/benytb4_ws/build/map_publisher
+[3.553s] Invoked command in '/home/recoomputer/benytb4_ws/build/map_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/map_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/map_publisher
+[3.557s] Invoking command in '/home/recoomputer/benytb4_ws/build/map_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/map_publisher -- -j8 -l8
+[3.673s] [ 50%] [32mBuilding CXX object CMakeFiles/map_publisher_node.dir/src/map_publisher_node.cpp.o[0m
+[11.622s] [01m[K/home/recoomputer/benytb4_ws/src/map_publisher/src/map_publisher_node.cpp:[m[K In constructor ‘[01m[KMapPublisher::MapPublisher()[m[K’:
+[11.623s] [01m[K/home/recoomputer/benytb4_ws/src/map_publisher/src/map_publisher_node.cpp:73:34:[m[K [01;35m[Kwarning: [m[Kcomparison is always false due to limited range of data type [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wtype-limits-Wtype-limits]8;;[m[K]
+[11.623s]    73 |                 } else if ([01;35m[Kpixel == 254[m[K) {
+[11.623s]       |                            [01;35m[K~~~~~~^~~~~~[m[K
+[17.057s] [100%] [32m[1mLinking CXX executable map_publisher_node[0m
+[17.566s] [100%] Built target map_publisher_node
+[17.591s] Invoked command in '/home/recoomputer/benytb4_ws/build/map_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/map_publisher -- -j8 -l8
+[17.595s] Invoking command in '/home/recoomputer/benytb4_ws/build/map_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/map_publisher
+[17.611s] -- Install configuration: ""
+[17.612s] -- Execute custom install script
+[17.613s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/lib/map_publisher/map_publisher_node
+[17.632s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/ament_index/resource_index/package_run_dependencies/map_publisher
+[17.670s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/ament_index/resource_index/parent_prefix_path/map_publisher
+[17.691s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/environment/ament_prefix_path.sh
+[17.709s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/environment/ament_prefix_path.dsv
+[17.735s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/environment/path.sh
+[17.754s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/environment/path.dsv
+[17.787s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/local_setup.bash
+[17.805s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/local_setup.sh
+[17.841s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/local_setup.zsh
+[17.858s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/local_setup.dsv
+[17.881s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/package.dsv
+[17.922s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/ament_index/resource_index/packages/map_publisher
+[17.950s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/cmake/map_publisherConfig.cmake
+[17.973s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/cmake/map_publisherConfig-version.cmake
+[18.001s] -- Symlinking: /home/recoomputer/benytb4_ws/install/map_publisher/share/map_publisher/package.xml
+[18.054s] Invoked command in '/home/recoomputer/benytb4_ws/build/map_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/map_publisher

@@ -1,0 +1,4 @@
+[01m[K/home/recoomputer/benytb4_ws/src/map_publisher/src/map_publisher_node.cpp:[m[K In constructor ‘[01m[KMapPublisher::MapPublisher()[m[K’:
+[01m[K/home/recoomputer/benytb4_ws/src/map_publisher/src/map_publisher_node.cpp:73:34:[m[K [01;35m[Kwarning: [m[Kcomparison is always false due to limited range of data type [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wtype-limits-Wtype-limits]8;;[m[K]
+   73 |                 } else if ([01;35m[Kpixel == 254[m[K) {
+      |                            [01;35m[K~~~~~~^~~~~~[m[K

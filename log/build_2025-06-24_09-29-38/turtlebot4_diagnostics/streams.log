@@ -1,0 +1,17 @@
+[2.136s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics': PYTHONPATH=/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/build --no-deps symlink_data
+[2.817s] running develop
+[3.537s] running egg_info
+[3.537s] writing turtlebot4_diagnostics.egg-info/PKG-INFO
+[3.537s] writing dependency_links to turtlebot4_diagnostics.egg-info/dependency_links.txt
+[3.538s] writing entry points to turtlebot4_diagnostics.egg-info/entry_points.txt
+[3.538s] writing requirements to turtlebot4_diagnostics.egg-info/requires.txt
+[3.538s] writing top-level names to turtlebot4_diagnostics.egg-info/top_level.txt
+[3.543s] reading manifest file 'turtlebot4_diagnostics.egg-info/SOURCES.txt'
+[3.545s] writing manifest file 'turtlebot4_diagnostics.egg-info/SOURCES.txt'
+[3.634s] running build_ext
+[3.634s] Creating /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages/turtlebot4-diagnostics.egg-link (link to .)
+[3.636s] Installing diagnostics_updater script to /home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/turtlebot4_diagnostics
+[3.637s] 
+[3.637s] Installed /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics
+[3.637s] running symlink_data
+[3.753s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics' returned '0': PYTHONPATH=/home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/recoomputer/benytb4_ws/build/turtlebot4_diagnostics/build --no-deps symlink_data

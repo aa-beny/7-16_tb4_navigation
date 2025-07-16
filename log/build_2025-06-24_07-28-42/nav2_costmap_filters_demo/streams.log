@@ -1,0 +1,48 @@
+[0.757s] Invoking command in '/home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/navigation2_tutorials/nav2_costmap_filters_demo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo
+[0.885s] -- The C compiler identification is GNU 11.4.0
+[1.028s] -- The CXX compiler identification is GNU 11.4.0
+[1.048s] -- Detecting C compiler ABI info
+[1.209s] -- Detecting C compiler ABI info - done
+[1.222s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.223s] -- Detecting C compile features
+[1.226s] -- Detecting C compile features - done
+[1.232s] -- Detecting CXX compiler ABI info
+[1.446s] -- Detecting CXX compiler ABI info - done
+[1.460s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.462s] -- Detecting CXX compile features
+[1.465s] -- Detecting CXX compile features - done
+[1.472s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.914s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.144s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.395s] -- Configuring done
+[2.404s] -- Generating done
+[2.407s] -- Build files have been written to: /home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo
+[2.421s] Invoked command in '/home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/navigation2_tutorials/nav2_costmap_filters_demo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo
+[2.424s] Invoking command in '/home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo -- -j8 -l8
+[2.539s] Invoked command in '/home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo -- -j8 -l8
+[2.540s] Invoking command in '/home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo
+[2.559s] -- Install configuration: ""
+[2.559s] -- Execute custom install script
+[2.561s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/launch/costmap_filter_info.launch.py
+[2.579s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/maps/keepout_mask.pgm
+[2.606s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/maps/keepout_mask.yaml
+[2.625s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/maps/speed_mask.pgm
+[2.641s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/maps/speed_mask.yaml
+[2.656s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/params/keepout_params.yaml
+[2.681s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/params/speed_params.yaml
+[2.701s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/ament_index/resource_index/package_run_dependencies/nav2_costmap_filters_demo
+[2.724s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/ament_index/resource_index/parent_prefix_path/nav2_costmap_filters_demo
+[2.743s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/environment/ament_prefix_path.sh
+[2.758s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/environment/ament_prefix_path.dsv
+[2.778s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/environment/path.sh
+[2.802s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/environment/path.dsv
+[2.823s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/local_setup.bash
+[2.840s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/local_setup.sh
+[2.873s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/local_setup.zsh
+[2.891s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/local_setup.dsv
+[2.912s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/package.dsv
+[2.933s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/ament_index/resource_index/packages/nav2_costmap_filters_demo
+[2.954s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/cmake/nav2_costmap_filters_demoConfig.cmake
+[2.982s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/cmake/nav2_costmap_filters_demoConfig-version.cmake
+[3.000s] -- Symlinking: /home/recoomputer/benytb4_ws/install/nav2_costmap_filters_demo/share/nav2_costmap_filters_demo/package.xml
+[3.031s] Invoked command in '/home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/nav2_costmap_filters_demo

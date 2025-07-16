@@ -1,0 +1,84 @@
+[0.746s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/turtlebot4/turtlebot4_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/turtlebot4_navigation
+[0.899s] -- The C compiler identification is GNU 11.4.0
+[1.029s] -- The CXX compiler identification is GNU 11.4.0
+[1.051s] -- Detecting C compiler ABI info
+[1.229s] -- Detecting C compiler ABI info - done
+[1.242s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.243s] -- Detecting C compile features
+[1.243s] -- Detecting C compile features - done
+[1.250s] -- Detecting CXX compiler ABI info
+[1.450s] -- Detecting CXX compiler ABI info - done
+[1.466s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.467s] -- Detecting CXX compile features
+[1.469s] -- Detecting CXX compile features - done
+[1.489s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.905s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.103s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.412s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.646s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.652s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.654s] -- Added test 'lint_cmake' to check CMake code style
+[2.656s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.659s] -- Added test 'xmllint' to check XML markup files
+[2.664s] -- Configuring done
+[2.673s] -- Generating done
+[2.681s] -- Build files have been written to: /home/recoomputer/benytb4_ws/build/turtlebot4_navigation
+[2.694s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake /home/recoomputer/benytb4_ws/src/turtlebot4/turtlebot4_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/recoomputer/benytb4_ws/install/turtlebot4_navigation
+[2.699s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_navigation -- -j8 -l8
+[2.844s] Built target ament_cmake_python_symlink_turtlebot4_navigation
+[3.541s] running egg_info
+[3.542s] creating turtlebot4_navigation.egg-info
+[3.543s] writing turtlebot4_navigation.egg-info/PKG-INFO
+[3.544s] writing dependency_links to turtlebot4_navigation.egg-info/dependency_links.txt
+[3.544s] writing top-level names to turtlebot4_navigation.egg-info/top_level.txt
+[3.545s] writing manifest file 'turtlebot4_navigation.egg-info/SOURCES.txt'
+[3.555s] reading manifest file 'turtlebot4_navigation.egg-info/SOURCES.txt'
+[3.556s] writing manifest file 'turtlebot4_navigation.egg-info/SOURCES.txt'
+[3.653s] Built target ament_cmake_python_build_turtlebot4_navigation_egg
+[3.682s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --build /home/recoomputer/benytb4_ws/build/turtlebot4_navigation -- -j8 -l8
+[3.683s] Invoking command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_navigation
+[3.700s] -- Install configuration: ""
+[3.701s] -- Execute custom install script
+[3.702s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/localization.yaml
+[3.728s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/mapper_params_localization.yaml
+[3.749s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2.yaml
+[3.766s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2_copy.yaml
+[3.795s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/slam.yaml
+[3.815s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/launch/localization.launch.py
+[3.833s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/launch/nav2.launch.py
+[3.851s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/launch/slam.launch.py
+[3.869s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/depot.pgm
+[3.894s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/depot.yaml
+[3.913s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/maze.pgm
+[3.934s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/maze.yaml
+[3.958s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/warehouse.pgm
+[3.979s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/maps/warehouse.yaml
+[4.001s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/pythonpath.sh
+[4.019s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/pythonpath.dsv
+[4.039s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/PKG-INFO
+[4.057s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/SOURCES.txt
+[4.075s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/dependency_links.txt
+[4.096s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation-1.0.5-py3.10.egg-info/top_level.txt
+[4.114s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation/__init__.py
+[4.134s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation/turtlebot4_navigator.py
+[4.153s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigator.py
+[4.172s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/ament_index/resource_index/package_run_dependencies/turtlebot4_navigation
+[4.189s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/ament_index/resource_index/parent_prefix_path/turtlebot4_navigation
+[4.211s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/ament_prefix_path.sh
+[4.229s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/ament_prefix_path.dsv
+[4.249s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/path.sh
+[4.265s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/environment/path.dsv
+[4.292s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.bash
+[4.309s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.sh
+[4.332s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.zsh
+[4.349s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/local_setup.dsv
+[4.373s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/package.dsv
+[4.390s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/ament_index/resource_index/packages/turtlebot4_navigation
+[4.409s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/cmake/turtlebot4_navigationConfig.cmake
+[4.427s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/cmake/turtlebot4_navigationConfig-version.cmake
+[4.443s] -- Symlinking: /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/package.xml
+[4.570s] Listing '/home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation'...
+[4.570s] Compiling '/home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation/__init__.py'...
+[4.571s] Compiling '/home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigation/turtlebot4_navigator.py'...
+[4.691s] Compiling '/home/recoomputer/benytb4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages/turtlebot4_navigator.py'...
+[4.713s] Invoked command in '/home/recoomputer/benytb4_ws/build/turtlebot4_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/recoomputer/benytb4_ws/install/turtlebot4_tests:/home/recoomputer/benytb4_ws/install/pose_navigator:/home/recoomputer/benytb4_ws/install/turtlebot4_diagnostics:/opt/ros/humble /usr/bin/cmake --install /home/recoomputer/benytb4_ws/build/turtlebot4_navigation

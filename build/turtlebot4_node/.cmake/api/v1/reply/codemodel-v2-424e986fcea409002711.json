@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-ad9f6f0b01032fb557b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "turtlebot4_node",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_node-7d35017296d9856265eb.json",
+					"name" : "turtlebot4_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_node_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_node_lib-ed06593098ec6dadc04d.json",
+					"name" : "turtlebot4_node_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_node_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_node_uninstall-fd4935bad341aafadc5b.json",
+					"name" : "turtlebot4_node_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-9d2c854765f29a852601.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/recoomputer/benytb4_ws/build/turtlebot4_node",
+		"source" : "/home/recoomputer/benytb4_ws/src/turtlebot4/turtlebot4_node"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

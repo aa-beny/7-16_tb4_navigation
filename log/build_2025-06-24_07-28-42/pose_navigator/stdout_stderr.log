@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating pose_navigator.egg-info
+writing pose_navigator.egg-info/PKG-INFO
+writing dependency_links to pose_navigator.egg-info/dependency_links.txt
+writing entry points to pose_navigator.egg-info/entry_points.txt
+writing requirements to pose_navigator.egg-info/requires.txt
+writing top-level names to pose_navigator.egg-info/top_level.txt
+writing manifest file 'pose_navigator.egg-info/SOURCES.txt'
+reading manifest file 'pose_navigator.egg-info/SOURCES.txt'
+writing manifest file 'pose_navigator.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/recoomputer/benytb4_ws/install/pose_navigator/lib/python3.10/site-packages/pose-navigator.egg-link (link to .)
+Installing color_navigator script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+Installing coretask script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+Installing forward_return_node script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+Installing pose_navigator script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+Installing pose_navigator_node script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+Installing test_color_sequence script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+Installing test_waypoints script to /home/recoomputer/benytb4_ws/install/pose_navigator/lib/pose_navigator
+
+Installed /home/recoomputer/benytb4_ws/build/pose_navigator
+running symlink_data
+creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index
+creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index/resource_index
+creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index/resource_index/packages
+symbolically linking /home/recoomputer/benytb4_ws/build/pose_navigator/resource/pose_navigator -> /home/recoomputer/benytb4_ws/install/pose_navigator/share/ament_index/resource_index/packages
+symbolically linking /home/recoomputer/benytb4_ws/build/pose_navigator/package.xml -> /home/recoomputer/benytb4_ws/install/pose_navigator/share/pose_navigator
+creating /home/recoomputer/benytb4_ws/install/pose_navigator/share/pose_navigator/config
+symbolically linking /home/recoomputer/benytb4_ws/build/pose_navigator/pose_navigator/config/poses.json -> /home/recoomputer/benytb4_ws/install/pose_navigator/share/pose_navigator/config
