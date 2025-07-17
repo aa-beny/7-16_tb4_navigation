@@ -20,14 +20,14 @@ class ColorNavigator(PoseNavigator):
         zone = msg.data.strip().upper()
 
         self.get_logger().info(f"🚗 Received navigation request to zone {zone}")
-
+        
         if zone == 'B':
-            
-            # self.navigate_to_pose("base", Direction.trunLEFT)
+            self.get_logger().warn(f"111 zone: {zone}")
+            self.navigate_to_pose("base", Direction.trunLEFT)
             self.navigate_to_pose("left", Direction.trunLEFT)
 
         elif zone == 'C':
-            # self.navigate_to_pose("up_center", Direction.FORWARD)
+            self.navigate_to_pose("up_center", Direction.FORWARD)
             self.navigate_to_pose("up", Direction.FORWARD)
          
 
@@ -38,20 +38,20 @@ class ColorNavigator(PoseNavigator):
             self.navigate_to_pose("right", Direction.trunRIGHT)
            
         elif zone == 'E':
-            # if self.last_zone == 'B':
-            #     self.get_logger().info(f"🚗 Received navigation last_zone {self.last_zone}")
-            #     self.navigate_to_pose("left", Direction.trunRIGHT)
-            #     self.navigate_to_pose("up_center", Direction.trunRIGHT)
-            # elif self.last_zone == 'C':
-            #     self.get_logger().info(f"🚗 Received navigation last_zone {self.last_zone}")
-            #     self.navigate_to_pose("up", Direction.BACKWARD)
-            #     self.navigate_to_pose("up_center", Direction.BACKWARD)
-            # elif self.last_zone == 'D':
-            #     self.get_logger().info(f"🚗 Received navigation last_zone {self.last_zone}")
-            #     self.navigate_to_pose("right", Direction.trunLEFT)
+            if self.last_zone == 'B':
+                self.get_logger().info(f"🚗 Received navigation last_zone {self.last_zone}")
+                self.navigate_to_pose("left", Direction.trunRIGHT)
+                self.navigate_to_pose("up_center", Direction.trunRIGHT)
+            elif self.last_zone == 'C':
+                self.get_logger().info(f"🚗 Received navigation last_zone {self.last_zone}")
+                self.navigate_to_pose("up", Direction.BACKWARD)
+                self.navigate_to_pose("up_center", Direction.BACKWARD)
+            elif self.last_zone == 'D':
+                self.get_logger().info(f"🚗 Received navigation last_zone {self.last_zone}")
+                self.navigate_to_pose("right", Direction.trunLEFT)
           
-            # else:
-            #     self.get_logger().warn("⚠️ Unknown last zone before E, skipping up_center alignment.")
+            else:
+                self.get_logger().warn("⚠️ Unknown last zone before E, skipping up_center alignment.")
             self.navigate_to_pose("collection", Direction.BACKWARD)
         elif zone == 'A':
             self.navigate_to_pose("up_center", Direction.trunLEFT)

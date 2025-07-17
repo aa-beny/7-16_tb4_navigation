@@ -1,5 +1,6 @@
 /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/localization.yaml
 /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/mapper_params_localization.yaml
+/home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2 mppi.yaml
 /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2 rpp.yaml
 /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2.yaml
 /home/recoomputer/benytb4_ws/install/turtlebot4_navigation/share/turtlebot4_navigation/config/nav2_dwb.yaml

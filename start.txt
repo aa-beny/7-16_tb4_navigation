@@ -11,6 +11,7 @@ ros2 launch turtlebot4_viz view_robot.launch.py
 local:
 ros2 launch turtlebot4_navigation slam.launch.py params:=/home/recoomputer/turtlebot4_ws/src/turtlebot4/turtlebot4_navigation/config/mapper_params_localization.yaml
 
+ros2 run rqt_reconfigure rqt_reconfigure
 
 ros2 launch turtlebot4_navigation localization.launch.py map:=/home/recoomputer/benytb4_ws/map.yaml
 
@@ -24,6 +25,19 @@ ros2 launch turtlebot4_navigation nav2.launch.py
 ros2 topic pub --once /car_command std_msgs/msg/String "data: 'B'"
 ros2 run pose_navigator coretask
 
+Failed to create controller. Exception:
+According to the loaded plugin descriptions the class nav2_teb_controller::TebController with base class type nav2_core::Controller does not exist.
+Declared types are:
+- dwb_core::DWBLocalPlanner
+- nav2_mppi_controller::MPPIController
+- nav2_regulated_pure_pursuit_controller::RegulatedPurePursuitController
+- nav2_rotation_shim_controller::RotationShimController
+
+rm -rf .git
+
+git add .
+git commit -m "updete"
+git push
 
 全能賽
 ros2 run pose_navigator pose_navigator
